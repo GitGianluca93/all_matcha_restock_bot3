@@ -1,4 +1,4 @@
-name: all_matcha_restock_bot
+name: matcha_stores_restock_bot
 
 on:
   workflow_dispatch:
