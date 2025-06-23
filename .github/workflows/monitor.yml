@@ -1,4 +1,4 @@
-name: Product Monitor Bot
+name: all_matcha_restock_bot
 
 on:
   workflow_dispatch:
